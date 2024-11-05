@@ -1,7 +1,7 @@
 export const siteMetadata = {
-  siteUrl: 'https://us4ever.com',
-  siteRepo: 'https://github.com/luotianyou/us4ever.com',
-  siteLogo: '/images/logo.jpg',
+  siteUrl: '',
+  siteRepo: '',
+  siteLogo: '/images/lty.jpg',
   siteShortTitle: '一杯清露冷如冰',
   siteTitle: "luotianyou's coding journey",
   siteScreenshot: '',
